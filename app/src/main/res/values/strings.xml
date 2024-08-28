@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Compose Github User</string>
+    <string name="user_thumbnail">User Thumbnail</string>
+    <string name="search">Search user</string>
+    <string name="followers">Followers: %d</string>
+    <string name="following">Following: %d</string>
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="profile">My Profile</string>
+    <string name="detail_user">Detail User</string>
+    <string name="name">Bonaventura Julio Putra Nandika</string>
+    <string name="photo">https://firebasestorage.googleapis.com/v0/b/bangkit-dashboard/o/production%2F2024-B1%2Fprofiles%2F5f6b67ff-e097-4d00-b2e0-84f207440100.jpg?alt=media&amp;token=53ccfc77-3c21-4846-8c53-f9fd01655de9</string>
+    <string name="email">bnvt15@gmail.com</string>
+    <string name="github">https://github.com/bona1507</string>
+    <string name="linkedin">https://www.linkedin.com/in/bonaventurajulio</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="back">Back</string>
+    <string name="data_null">There is no data</string>
+</resources>
